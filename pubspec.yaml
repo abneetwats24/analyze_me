@@ -65,7 +65,7 @@ flutter:
       - asset: assets/fonts/Pacifico-Regular.ttf
     - family: SourceSansPro Regular
       fonts:
-      - asset: fonts/SourceSansPro-Regular.ttf
+      - asset: assets/fonts/SourceSansPro-Regular.ttf
   #
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/custom-fonts/#from-packages
